@@ -1,0 +1,80 @@
+铁氧体磁芯 
+https://www.mcmod.cn/class/3888.html
+DFU 载入优化
+https://www.mcmod.cn/class/3407.html
+Duplicate Entity UUID Fix
+https://www.mcmod.cn/class/5984.html
+铷
+https://www.mcmod.cn/class/5608.html
+AntiGhost
+https://www.mcmod.cn/class/3426.html
+Why You Make Lag
+https://www.mcmod.cn/class/7894.html
+Connectivity
+https://www.mcmod.cn/class/6761.html
+Architectury API
+https://www.mcmod.cn/class/3434.html
+Entity Culling
+https://www.mcmod.cn/class/3629.html
+Bee Fix
+https://www.curseforge.com/minecraft/mc-mods/bee-fix
+Spawner Bug Fix
+https://www.curseforge.com/minecraft/mc-mods/spawner-fix
+RoadRunner
+https://www.mcmod.cn/class/4852.html
+更好的铷视频设置按钮
+https://www.mcmod.cn/class/7402.html
+Let Me Despawn
+https://www.mcmod.cn/class/7415.html
+经验机制改革
+https://www.mcmod.cn/class/1499.html
+现代化 UI
+https://www.mcmod.cn/class/2454.html
+FPS减速器
+https://www.mcmod.cn/class/1815.html
+Entity Collision FPS Fix
+https://www.mcmod.cn/class/6556.html
+Starlight x Create
+https://www.mcmod.cn/class/5335.html
+TexTrue的铷视频界面
+https://www.mcmod.cn/class/7329.html
+Farsight
+https://www.mcmod.cn/class/5224.html
+Block Limit Fix
+https://www.curseforge.com/minecraft/mc-mods/block-limit-fix
+Fast Furnace minus Replacement
+https://www.mcmod.cn/class/5543.html
+火花
+https://www.mcmod.cn/class/4073.html
+AI改进
+https://www.mcmod.cn/class/1480.html
+Reach Fix
+https://www.mcmod.cn/class/6326.html
+随意修复
+https://www.mcmod.cn/class/2253.html
+Clear Skies Forge Port
+https://www.curseforge.com/minecraft/mc-mods/clear-skies-forge-port
+下界传送门修正
+https://www.mcmod.cn/class/811.html
+Rubidium Toolkit
+https://www.mcmod.cn/class/7997.html
+My Server Is Compatible
+https://www.mcmod.cn/class/6048.html
+现代化修复
+https://www.mcmod.cn/class/8714.html
+NoChatLag
+https://www.curseforge.com/minecraft/mc-mods/nochatlag
+Fast Projectile Fix
+https://www.mcmod.cn/class/8885.html
+铷 · 扩展
+https://www.mcmod.cn/class/7180.html
+Max Health Fix
+https://www.mcmod.cn/class/8422.html
+Fix Experience Bug
+https://www.mcmod.cn/class/7616.html
+FastWorkbench Minus Replacement
+https://www.mcmod.cn/class/3723.html
+Chocolate Fix
+https://www.mcmod.cn/class/3364.html
+内存清扫
+https://www.mcmod.cn/class/8653.html
