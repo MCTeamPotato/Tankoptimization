@@ -4,5 +4,3 @@
 如果你在使用整合包的过程中遇到问题，欢迎来 New issue，拿 latest.log 轰炸我。
 
 下载见 Releases。
-
-也可以进群下：https://jq.qq.com/?_wv=1027&k=zvltsVQB
