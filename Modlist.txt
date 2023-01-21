@@ -26,10 +26,10 @@ Entity Culling
 https://www.mcmod.cn/class/3629.html
 
 Bee Fix
-https://www.curseforge.com/minecraft/mc-mods/bee-fix
+https://www.mcmod.cn/class/8915.html
 
 Spawner Bug Fix
-https://www.curseforge.com/minecraft/mc-mods/spawner-fix
+https://www.mcmod.cn/class/8916.html
 
 RoadRunner
 https://www.mcmod.cn/class/4852.html
@@ -62,7 +62,7 @@ Farsight
 https://www.mcmod.cn/class/5224.html
 
 Block Limit Fix
-https://www.curseforge.com/minecraft/mc-mods/block-limit-fix
+https://www.mcmod.cn/class/8917.html
 
 Fast Furnace minus Replacement
 https://www.mcmod.cn/class/5543.html
