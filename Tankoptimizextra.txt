@@ -5,7 +5,7 @@
 
 ————————————————
 
-其它的**玄学**优化模组：
+其它的玄学优化模组：
 
 夸克（https://www.mcmod.cn/class/527.html）和 AutoRegLib（https://www.mcmod.cn/class/698.html）：能够很奇妙地解决很多模组装在一起时 tag 起的冲突。
 
