@@ -7,7 +7,7 @@
 
 也可以进Q群下：639268722。
 
-# Tankoptimizaextra
+# Tankoptimizextra
 
 如果你没有配方书的需求，那么推荐安装 [NotEnoughRecipeBook](https://www.mcmod.cn/class/8923.html) 模组。
 
