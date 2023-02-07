@@ -25,4 +25,5 @@
 
 [夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)：能够很奇妙地解决很多模组装在一起时的 tag 冲突。
 
-[更好的末地 Forge 重铸版](https://www.mcmod.cn/class/4977.html)：使用了 mixin 对原版的屎山进行了修改，很玄学地提高了帧数。但存在弊端：紫颂果的获取太困难了。（本整合包已经内置了它的配置文件）
+
+[更好的末地 Forge 重铸版](https://www.mcmod.cn/class/4977.html) & [更好的下界Forge版](https://www.mcmod.cn/class/4746.html)：使用了 mixin 对原版的屎山进行了修改，很玄学地提高了帧数。但存在弊端：末地——紫颂果的获取太困难了。下界——各种植物属实挡路（本整合包已经内置了 betterendforge 的配置文件）
