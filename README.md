@@ -15,6 +15,8 @@
 
 如果你有动态光源的需求，那么推荐安装[镁/铷：动态光源](https://github.com/LocalizedCNMC/MgRbDynamicLights-i18n/releases/download/mc1.16-v1.0.1-i18n-Multi/dynamiclightsreforged-mc1.16.5_v1.0.1-i18n-Multi.jar)模组。
 
+如果你有光源的需求，那么推荐安装 [Oculus](https://www.mcmod.cn/class/5741.html) 模组。
+
 ————————————————
 
 其它的玄学优化模组：
