@@ -17,6 +17,8 @@
 
 如果你有光源的需求，那么推荐安装 [Oculus](https://www.mcmod.cn/class/5741.html) 模组。
 
+**即使**你有储物抽屉的需求，也不推荐安装 [DrawerFPS](https://www.mcmod.cn/class/3893.html) 模组，因为 [Rubidium Extra Potato Edition](https://github.com/MCTeamPotato/Rubidium-Extra-Potato-Edition/tree/1.16-i18n/multi-dev) 已经完全包含了它的功能，甚至做的更好（即，最大方块实体渲染距离配置）。
+
 ————————————————
 
 其它的玄学优化模组：
