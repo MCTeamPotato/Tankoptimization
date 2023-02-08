@@ -21,6 +21,10 @@
 
 如果你遇到 tag 冲突/数据包验证失败，可以尝试安装[夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)，它俩能够很奇妙地解决很多模组装在一起时的 tag 冲突。
 
-如果你有BetterEnd和BetterNether的需求，强烈推荐不要安装原版，推荐安装：[更好的末地：土豆版](https://github.com/MCTeamPotato/Better-End-Potato-Edition)，[更好的下界：土豆版](https://github.com/MCTeamPotato/Better-Nether-Potato-Edition)。两者的LICENSE分别为MIT和GPL v3，均可以分发。
+如果你有BetterEnd的需求，强烈推荐不要安装原版，推荐安装：[更好的末地：土豆版](https://github.com/MCTeamPotato/Better-End-Potato-Edition)。LICENSE为MIT，可以分发。
+
+如果你有安装[BetterNether](https://www.mcmod.cn/class/4746.html)的想法，那么**强烈建议**你打消这种想法，转而安装[余烬奇景](https://www.mcmod.cn/class/4742.html)、[地狱扩展](https://www.mcmod.cn/class/3564.html)——因为BetterNether有一个非常严重的问题：
+![image](https://user-images.githubusercontent.com/110756250/217471215-d4b08424-75cc-4067-a5ed-d0fbd4a3d21c.png)
+
 
 本整合包已经内置了 betterendforge 的配置文件，对其一些不合理的设置进行了禁用。
