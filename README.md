@@ -19,11 +19,8 @@
 
 如果你有储物抽屉的需求，推荐安装 [DrawerFPS](https://www.mcmod.cn/class/3893.html) 模组。
 
-————————————————
+如果你遇到 tag 冲突/数据包验证失败，可以尝试安装[夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)，它俩能够很奇妙地解决很多模组装在一起时的 tag 冲突。
 
-其它的玄学优化模组：
+如果你有BetterEnd和BetterNether的需求，强烈推荐不要安装原版，推荐安装：[更好的末地：土豆版](https://github.com/MCTeamPotato/Better-End-Potato-Edition)，[更好的下界：土豆版](https://github.com/MCTeamPotato/Better-Nether-Potato-Edition)。两者的LICENSE分别为MIT和GPL v3，均可以分发。
 
-[夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)：能够很奇妙地解决很多模组装在一起时的 tag 冲突。
-
-
-[更好的末地 Forge 重铸版](https://www.mcmod.cn/class/4977.html) & [更好的下界Forge版](https://www.mcmod.cn/class/4746.html)：使用了 mixin 对原版的屎山进行了修改，很玄学地提高了帧数。但存在弊端：末地——紫颂果的获取太困难了。下界——各种植物属实挡路（本整合包已经内置了 betterendforge 的配置文件）
+本整合包已经内置了 betterendforge 的配置文件，对其一些不合理的设置进行了禁用。
