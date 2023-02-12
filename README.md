@@ -55,7 +55,3 @@ You can't directly delete mods in Curse format packs. You must first delete modp
 It is not recommended to stick to Java 8, the higher the Java version, the better the GC, the lower the memory consumption, and the better optimization in all aspects (such as startup speed), please consider according to your own situation.
 
 Please enter the JVM argument -XX:+ExplicitGCInvokesConcurrent in the launcher to solve the lag problem when the [Memory Sweep](https://www.curseforge.com/minecraft/mc-mods/memorysweep) is calling GC.
-
-Java version in the below image: Azul Zulu JDK 11. If you encounter problems writing this argument in other Java environments, you can switch to that version.
-
-![image](https://user-images.githubusercontent.com/110756250/218308524-ade6ec61-6447-4ace-ad3b-4920df500e65.png)
