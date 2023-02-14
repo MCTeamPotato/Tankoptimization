@@ -1,7 +1,5 @@
 # Tankoptimizextra
 
-如果你没有配方书的需求，推荐安装 [NotEnoughRecipeBook](https://www.mcmod.cn/class/8923.html) 模组。
-
 如果你有静谧四季的需求，推荐带上[静谧四季修复](https://www.mcmod.cn/class/9036.html)模组。
 
 如果你有动态光源的需求，推荐安装[镁/铷：动态光源](https://github.com/LocalizedCNMC/MgRbDynamicLights-i18n/releases/download/mc1.16-v1.0.1-i18n-Multi/dynamiclightsreforged-mc1.16.5_v1.0.1-i18n-Multi.jar)模组。
