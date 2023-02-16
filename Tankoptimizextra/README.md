@@ -14,7 +14,7 @@
 
 如果你有 BetterEnd 的需求，强烈推荐不要安装原版，推荐安装[更好的末地：土豆版](https://github.com/MCTeamPotato/Better-End-Potato-Edition)，并安装 CrT 加载[此脚本](https://github.com/MCTeamPotato/Tankoptimization/blob/main/Tankofpascript/ChorusFruitsFromEnderman.zs)。LICENSE 为 MIT，可以分发。
 
-本整合包已经内置了 betterendforge 的配置文件（你也可以在[这里](https://github.com/MCTeamPotato/Tankoptimization/tree/main/Tankofpaconfig/betterendforge)获取它），对其一些不合理/与其它模组不兼容/不好看的设置进行了禁用。
+本整合包已经内置了 betterendforge、Subterranean Wilderness、Oculus 的配置文件（你也可以在[这里](https://github.com/MCTeamPotato/Tankoptimization/tree/main/Tankofpaconfige)获取它们），对其一些不合理/与其它模组不兼容/不好看/造成卡顿的设置进行了调整。
 
 如果你有安装 [BetterNether](https://www.mcmod.cn/class/4746.html) 的想法，那么**强烈建议**你打消这种想法，转而安装[余烬奇景](https://www.mcmod.cn/class/4742.html)、[地狱扩展](https://www.mcmod.cn/class/3564.html)、[Incendium](https://www.mcmod.cn/class/4064.html)（虽然我不喜欢 Incendium）——因为 BetterNether 有一个非常严重的问题：
 ![image](https://user-images.githubusercontent.com/110756250/217471215-d4b08424-75cc-4067-a5ed-d0fbd4a3d21c.png)
