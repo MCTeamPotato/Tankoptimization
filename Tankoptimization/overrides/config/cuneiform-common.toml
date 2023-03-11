@@ -1,0 +1,14 @@
+
+#Features related to log filtering.
+[Filtering]
+	#Default: true
+	Enabled = false
+	#Any lines containing the following text will be removed from the logs.
+	"Strings To Remove" = ["[net.minecraft.util.Util]: No data fixer registered for", "[net.minecraft.command.Commands]: Ambiguity between arguments", "Registering", "Incorrect key ", "Configuration file ", "Generating resource cache", "Failed to download contributor list", "does not have a valid resource path", "Preloading JSONs", "-atlas", "Trimming", "Unknown item", "Can't keep up!", "Saving chunks for level", "All chunks are saved", "[dev.tr7zw.entityculling.CullTask:run:152]", "Changing priority", "Reloading ResourceManager", "Collecting textures", "parse", "Parsing", "unknown string", "Saving and pausing game", "Deferred blockstate cache", "update", "Update", "patreon", "Patreon"]
+	#Any lines matching the following regular expressions will be removed from the logs.
+	#Default: [\[net\.minecraftforge\.common\.ForgeConfigSpec\/CORE\]: Configuration file .* is not correct. Correcting, \[net\.minecraftforge\.common\.ForgeConfigSpec\/CORE\]: Incorrect key .* was corrected from .* to .*]
+	"Patterns To Remove" = []
+	#Stack traces from the following exceptions will be truncated, leaving only the message.
+	#Default: [com.google.gson.JsonSyntaxException]
+	"Exceptions To Truncate" = ["com.google.gson.JsonSyntaxException", "javax.net.ssl.SSLHandshakeException"]
+
