@@ -1,9 +1,0 @@
-#No comment
-enabled = true
-#No comment
-#Range: 0.0 ~ 1024.0
-reach = 4.5
-#No comment
-#Range: 0.0 ~ 1024.0
-reachCreative = 5.0
-
