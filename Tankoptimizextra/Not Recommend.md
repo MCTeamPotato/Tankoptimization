@@ -3,5 +3,5 @@
 
 如果你一定要安装 Iceberg 和它的 eye candy 扩展们，请记得删除 Modern UI。
 
-# Better Fps Render Distance
-不支持铷，且铷比这个模组做的更好。
+# Better F3
+只是更卡顿的 F3。
