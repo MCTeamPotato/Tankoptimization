@@ -1,0 +1,68 @@
+
+#Opotato Common Config
+["Opotato Settings"]
+	"print mods list when launching game" = true
+	"allow entities spawn limit" = false
+	#Range: 1 ~ 100
+	"max entities spawning number per chunk" = 10
+	"entities whose spawn won't be limited" = ["modid:mobid"]
+	"enable creative one pouch" = false
+
+["Blue Skies Extra Settings"]
+	"enable blue skies nerf" = true
+	"allow every mod generate features in blue skies dimensions" = false
+	#Range: > 6
+	"gate keeper house spacing" = 18
+
+["Ars Nouveau Extra Settings"]
+	"disable mana gems generation in basic loot chests" = false
+
+["Headshot Extra Settings"]
+	"enable 'Ding' on Headshot" = true
+	#Range: 0.0F ~ 1.0F. Type: Float
+	"'Ding' volume" = 1.0
+	#Range: 0.5F ~ 2.0F. Type: Float
+	"'Ding' pitch" = 1.0
+
+["Cracker's Wither Storm Mod Optimization Settings"]
+	#Every settings here will improve performance a lot as the mod is really laggy
+	"let wither sickness ticking system only take effect on players" = false
+	"don't let the wither sickness ticking system affect monsters" = false
+	"don't let the wither sickness ticking system affect animals" = false
+	#With this turning on, the amount of block clusters will be reduced on rendering and they won't be rendered when no player see them
+	"block cluster render optimization" = false
+	#Entities that will be killed: Block Cluster, Sickened Skeleton, Sickened Creeper, Sickened Spider, Sickened Zombie, Tentacle, Withered Symbiont.
+	#Inspired by Lag Removal mod.
+	"kill witherstormmod entities after command block dies" = false
+
+["L_Ender's Cataclysm Extra Settings"]
+	"Ignitium Armor has damage" = false
+	"Final Fractal has damage" = false
+	"Infernal Forge has damage" = false
+	"Monstrous Helm has damage" = false
+	"Zweiender has damage" = false
+	#Range: > 1
+	"void core cool down, in ticks" = 120
+	#Range: > 1
+	"infernal forge cool down, in ticks" = 80
+	#Range: > 1
+	"incinerator cool down, in ticks" = 400
+	#Range: > 5
+	"soul black smith spacing" = 90
+	#Range: > 5
+	"soul black smith separation" = 70
+	#Range: > 5
+	"ruined citadel spacing" = 30
+	#Range: > 5
+	"ruined citadel separation" = 10
+	#Range: > 5
+	"burning arena spacing" = 112
+	#Range: > 5
+	"burning arena separation" = 70
+
+["The Undergarden Extra Settings"]
+	#Range: > 5
+	"catacomb spacing" = 24
+	#Range: > 5
+	"catacomb separation" = 8
+

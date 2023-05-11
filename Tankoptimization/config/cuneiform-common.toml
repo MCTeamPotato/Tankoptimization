@@ -1,0 +1,14 @@
+
+#Features related to log filtering.
+[Filtering]
+	#Default: true
+	Enabled = true
+	#Any lines containing the following text will be removed from the logs.
+	"Strings To Remove" = ["[net.minecraft.util.Util]: No data fixer registered for", "[net.minecraft.command.Commands]: Ambiguity between arguments", "Registering", "Incorrect key ", "Configuration file ", "Generating resource cache", "Failed to download contributor list", "does not have a valid resource path", "Preloading JSONs", "-atlas", "Trimming", "Unknown item", "Can't keep up!", "Saving chunks for level", "All chunks are saved", "[dev.tr7zw.entityculling.CullTask:run:152]", "Changing priority", "Reloading ResourceManager", "Collecting textures", "parse", "Parsing", "unknown string", "Saving and pausing game", "Deferred blockstate cache", "update", "Update", "patreon", "Patreon", "[shadows.placebo.patreon.TrailsManager:lambda$init$0:63]", "[shadows.placebo.patreon.WingsManager:lambda$init$2:64]", "All chunks are saved", "warning C7533", "warning C7555", "Fragment info", "-----------", "Shader compilation log", "Program link log", "Error while parsing the block ID map entry", "has no property with the name variant, ignoring!", "Removing unused function", "Unsupported uniform: float darknessFactor", "Unsupported uniform: float darknessLightFactor", "Registered class observable.net."]
+	#Any lines matching the following regular expressions will be removed from the logs.
+	#Default: [\[net\.minecraftforge\.common\.ForgeConfigSpec\/CORE\]: Configuration file .* is not correct. Correcting, \[net\.minecraftforge\.common\.ForgeConfigSpec\/CORE\]: Incorrect key .* was corrected from .* to .*]
+	"Patterns To Remove" = []
+	#Stack traces from the following exceptions will be truncated, leaving only the message.
+	#Default: [com.google.gson.JsonSyntaxException]
+	"Exceptions To Truncate" = ["com.google.gson.JsonSyntaxException", "javax.net.ssl.SSLHandshakeException"]
+

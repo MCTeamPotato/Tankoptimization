@@ -1,0 +1,1 @@
+Line 17 & 18: Halve the default
