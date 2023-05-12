@@ -13,3 +13,5 @@ I'll give my usual advice that you don't really need Lightspeed if you have Mode
 —— embeddedt, ModernFix author, my faith.
 # [Snow Real Magic](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic)
 与铷不兼容，请使用 [Snow Real Magic Potato Edition](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic-potato-edition)
+# [Better End Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
+与铷不兼容，请使用 [Better End Potato Edition](https://www.curseforge.com/minecraft/mc-mods/better-end-potato-edition)
