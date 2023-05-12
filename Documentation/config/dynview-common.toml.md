@@ -4,4 +4,4 @@ Line 8: Reduce to 8
 
 Line 14: Add to 60
 
-Line 20: This do cause problems (To many chunks loaded), disabled.
+Line 20: This do cause problems (Too many chunks loaded), disabled.
