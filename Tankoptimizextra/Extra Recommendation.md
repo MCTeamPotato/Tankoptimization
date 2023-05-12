@@ -6,6 +6,4 @@
 
 如果你有 Blue Skies 的需求，推荐带上 [Random Blue Skies Fix](https://www.curseforge.com/minecraft/mc-mods/random-blue-skies-fix) 模组。
 
-如果你遇到 tag 冲突/数据包验证失败，可以尝试安装[夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)，它俩能够很奇妙地解决很多模组装在一起时的 tag 冲突。
-
-如果你有 BetterEnd 的需求，推荐不要安装原版，推荐安装[更好的末地：土豆版](https://github.com/MCTeamPotato/Better-End-Potato-Edition)，并安装 CrT 加载[此脚本](https://github.com/MCTeamPotato/Tankoptimization/blob/main/Tankofpascript/ChorusFruitsFromEnderman.zs)。LICENSE 为 MIT，可以分发。
+如果你在安装 [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end) 和 [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees) 后遇到 tag 冲突/数据包验证失败，可以尝试安装[夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)，它俩能够解决此 tag 冲突。
