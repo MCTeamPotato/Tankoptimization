@@ -13,7 +13,7 @@ I'll give my usual advice that you don't really need Lightspeed if you have Mode
 —— embeddedt, ModernFix author, my faith.
 # [Snow Real Magic](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic)
 与铷不兼容，请使用 [Snow Real Magic Potato Edition](https://www.curseforge.com/minecraft/mc-mods/snow-real-magic-potato-edition)
-# [Better End Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
+# [Better End Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked) Or [BetterEnd (Forge)](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 与铷不兼容，请使用 [Better End Potato Edition](https://www.curseforge.com/minecraft/mc-mods/better-end-potato-edition)
 # [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 卡顿的 eye candy。因为自身代码的缺陷导致与 ModernFix 不兼容（见[此](https://github.com/DynamicTreesTeam/DynamicTrees/issues/758)）。
