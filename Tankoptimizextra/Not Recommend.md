@@ -21,3 +21,5 @@ I'll give my usual advice that you don't really need Lightspeed if you have Mode
 已经严重过时，不兼容的小问题非常多，还会造成负优化。
 # [Survive](https://www.curseforge.com/minecraft/mc-mods/survive)
 各种方面的粪。
+# [OptiFine](https://www.optifine.net/)
+？
