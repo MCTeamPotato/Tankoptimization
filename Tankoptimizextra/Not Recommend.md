@@ -27,5 +27,5 @@ I'll give my usual advice that you don't really need Lightspeed if you have Mode
 Meaningless world lag maker.
 # [Chocolate Fix](https://www.curseforge.com/minecraft/mc-mods/chocolate-fix)
 不是很有必要继续安装的模组，**即使你有 BYG**。MC-202036：Forge 已经修复了它。MC-197616：单一生物群系修复，如果你真的想让你整合包里的某个维度只有一个群系，但加无妨。
-# [Adaptive Performance Tweaks](https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-forge](https://legacy.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks)
+# [Adaptive Performance Tweaks](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks)
 1.16.5 已经停更。优化 × 阉割 √。
