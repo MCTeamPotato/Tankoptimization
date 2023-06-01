@@ -7,3 +7,5 @@
 如果你有 Blue Skies 的需求，推荐带上 [Random Blue Skies Fix](https://www.curseforge.com/minecraft/mc-mods/random-blue-skies-fix) 模组。
 
 如果你在安装 [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end) 和 [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees) 后遇到 tag 冲突/数据包验证失败，可以尝试安装[夸克](https://www.mcmod.cn/class/527.html)和 [AutoRegLib](https://www.mcmod.cn/class/698.html)，它俩能够解决此 tag 冲突。
+
+如果你有半透明资源包的需求，推荐带上[Semitranslucency Fix](https://legacy.curseforge.com/minecraft/mc-mods/semitranslucency-fix)
