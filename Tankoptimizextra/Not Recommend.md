@@ -30,7 +30,7 @@ Meaningless world lag maker.
 # [Adaptive Performance Tweaks](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks)
 1.16.5 已经停更。优化 × 阉割 √。
 # [Memory Sweep](https://www.curseforge.com/minecraft/mc-mods/memorysweep)
-下面是 ModernFix Discord 中 embeddedt 对此模组的看法：
+下面是 Legacy Modding Discord —— modernfix-discussion channel 中 embeddedt 对此模组的看法：
 
 memory sweep is problematic and should not be used in my opinion
 
